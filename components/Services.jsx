@@ -6,7 +6,7 @@ export default function Services() {
         <button className="text-sm">See All</button>
       </div>
 
-      <ul className="flex justify-between px-2 mt-2">
+      <ul className="flex justify-between px-2 mt-5">
         <li>
           <div className="rounded-full bg-gray-300 w-10 h-10"></div>
           <p className="text-xs mt-1 text-center font-medium">Card</p>
